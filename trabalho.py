@@ -234,8 +234,7 @@ def menu():#
         else:
             print("\nOpção inválida. Por favor, tente novamente.")
         time.sleep(2)# pausa por 2 segundos antes de mostrar o menu novamente
-        else
-           sdasdasdasdasd
+        
             
 
       
